@@ -8,3 +8,4 @@ config-*
 .vagrant
 data/
 docs/list-moa
+*.csv
